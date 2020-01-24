@@ -1,0 +1,42 @@
+h1{
+    color:silver;
+    text-align: center;
+}
+
+.first-computer{
+    background-color:lightgray;
+    text-align: left;
+}
+
+.first-computer p{
+    font-size: 20px;
+}
+
+.next-step{
+    background-image: url('../images/national-cancer-institute-OHx5zVsv_gY-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    color:black;
+}
+.next-step p{
+    font-size: 22px;
+    background:gray;
+    opacity: 0.8;
+}
+.next-step h2{
+    background:gray;
+    opacity: 0.8;
+}
+.next-step h3{
+    background:gray;
+    opacity: 0.8;
+}
+.new-computer{
+    background-color:gray;
+}
+.new-computer p{
+    font-size: 20px;
+    color:darkblue;
+}
